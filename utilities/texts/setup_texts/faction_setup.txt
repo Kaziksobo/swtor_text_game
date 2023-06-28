@@ -1,0 +1,26 @@
+--------------------------------------------------------------------------------
+What faction do you want your character to be a part of?
+
+you can choose:
+The Republic
+or
+The Empire
+
+(Enter a faction followed by a question mark to learn about that faction)
+
+Faction = 
+*****
+
+Founded 20,000 years ago by explorers and diplomats, the Galactic Republic
+is a vast democracy led by the Supreme Chancellor. The Republic is a
+chaotic amalgam of many worlds, corporations and species, which often
+clash with each other.
+
+*****
+
+A rigid, militaristic society where aliens are subjugated and the
+Sith Lords are supreme, the Empire is ruled by the mysterious,
+all-powerful sith emperor. To imperial Citizens, power is everything;
+only the strongest ascend to glory.
+
+*****

@@ -1,0 +1,11 @@
+--------------------------------------------------------------------------------
+What Gender do you want your character to be?
+
+You can choose:
+Male
+or
+Female
+(Enter 'back' to return to race selection)
+
+Gender = 
+*****

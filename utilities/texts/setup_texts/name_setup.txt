@@ -1,0 +1,9 @@
+--------------------------------------------------------------------------------
+Please give your character a name. 
+It must be unique.
+You cannot use spaces.
+
+(Enter 'back' to return to gender selection)
+
+Name = 
+*****

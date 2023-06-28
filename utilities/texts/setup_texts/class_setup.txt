@@ -1,0 +1,180 @@
+--------------------------------------------------------------------------------
+What class do you want your character to be?
+
+You can choose:
+Jedi Knight;
+Jedi Consular;
+Smuggler;
+Trooper
+
+(Enter a class followed by a question mark to learn about that class)
+(Enter 'back' to return to faction selection)
+
+Class = 
+*****
+
+VALIANT, DETERMINED, GUARDIAN OF PEACE
+
+A symbol of hope in dark times, the Jedi Knight stands for
+the legacy of the Jedi Order - more than 20,000 years of
+protecting the Republic and keeping the peace across the galaxy.
+
+The Jedi Knight turns combat into an art form, gracefully executing
+acrobatic feats in tandem with elegant lightsaber tactics.
+
+Stats:
+Attack = 8
+Defense = 7
+Stealth = 3
+Force = 4
+
+Power = Force Push
+
+*****
+
+VISIONARY, AMBASSADOR, SEEKER OF JEDI WISDOM
+
+For more than 20,000 years, the jedi order has worked to promote
+peace and balance in the Galactic Republic, but each new day brings
+with it a new threat, promising to rip the Jedi and the Republic
+apart.
+
+Jedi consulars channel the power of the force for strength
+in combat and wisdom in diplomacy.
+
+Stats:
+Attack = 3
+Defense = 4
+Stealth = 7
+Force = 8
+
+Power = Force Heal
+
+*****
+
+QUICK, CLEVER, ANSWERS TO NO ONE
+
+sometimes luck is more important than skill, but it never
+hurts to have both.
+
+lawlessness has become common in the wake of the devestating war
+between the Republic and Empire. An adventurous spirit who's
+not afraid to break a few rules can make a handsome profit,
+but it requires fast reflexes, fast wits and a fast draw with
+a blaster. Even then, the life of a smuggler is always a gamble.
+
+Stats:
+Attack = 5
+Defense = 5
+Stealth = 8
+
+*****
+
+HONOUR, DUTY, DEFENSE OF THE REPUBLIC
+
+Not all heroes carry lightsabers, some just have the will to fight.
+
+For decades, the armed forces of the Galactic Republic defended
+their civilisation agains the seemingly unstoppable Sith Empire.
+Despite countless setbacks, the men and women of the Republic
+military never backed down until the senate ordered them to.
+
+In the wake of the treaty of coruscant, the Republic military
+has begun creating cutting-edge special forces squads for the
+inevitable day when the war with the Sith Empire begins anew.
+These advanced strike teams are compromised of only the most
+talented and disciplined soldiers - a new breed of elite
+Republic Troopers.
+
+Stats:
+Attack = 7
+Defense = 9
+Stealth = 2
+
+*****
+--------------------------------------------------------------------------------
+What class do you want your character to be?
+
+You can choose:
+Sith Warrior;
+Sith Inquisitor;
+Bounty Hunter;
+Imperial Agent
+
+(Enter a class followed by a question mark to learn about that class)
+(Enter 'back' to return to faction selection)
+
+Class = 
+*****
+
+CHAMPION OF THE DARK SIDE
+
+An unstoppable force of darkness, the sith warrior is entrusted
+with the task of destroying the Empire's enemies and enforcing Sith
+domination across the galaxy. The warrior channels the destructive
+emotions of fear, anger and hatred to purge weakness from body and
+mind and become a being of pure, brutal efficiency.
+
+Stats:
+Attack = 9
+Defense = 7
+Stealth = 2
+Force = 4
+
+Power = Force Choke
+
+*****
+
+SINISTER, DECEPTIVE, PRODIGY OF FORCE POWER
+
+The history of the Sith Empire is fraught with scheming politics and
+dark secrets - the lifeblood of the Sith Inquisitor. Treachery hides
+behind every corner in the Empire's dark corridors, and survival
+depends on an individual's natural cunning and the will to manipulate
+and defeat their enemies and allies alike. The Inquisitor experiments
+with forbidden powers to not only survive in this cutthroat
+environment but to excel and seiza authority.
+
+Stats:
+Attack = 4
+Defense = 4
+Stealth = 7
+Force = 7
+
+Power = Force Lightning
+
+*****
+
+HUNTER, SEEKER, KILLER FOR HIRE
+
+Countless enemies stand in the way of the Sith Empire's drive for
+domination. The Empire spares no expense eliminating these threats,
+offering massive bounties to employ the galaxy's most lethal hunters.
+Earning an death mark from the Empire means a life spent in fear,
+constantly looking over your shoulder. It's never a question of if a
+Bounty Hunter will find you... only when.
+
+Stats:
+Attack = 8
+Defense = 8
+Stealth = 2
+
+*****
+
+ASSASSIN, SABOTEUR, THE EMPIRE'S SECRET WEAPON
+
+The Empire dominates scores of star systems across the galaxy, but not
+through the power of the dark side alone. Behind the scenes, the cunning
+Agents of Imperial Intelligence track down and eliminate the Empire's
+enemies - from intractable Republic Senators to traitorous Imperial
+Moffs to bloodthirsty rebels with Republic ties. Imperial Agents must
+master the arts of infiltration, seduction and assassination to advance
+the Empire's cause; they face the oppostion of a terrified galaxy and
+the capriciousness of their own Sith overlords.
+
+Stats:
+Attack = 5
+Defense = 3
+Stealth = 10
+
+*****

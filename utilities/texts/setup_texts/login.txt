@@ -1,0 +1,15 @@
+----------------------------------------------------------------------------
+Please login to your character
+
+(Enter 'menu' at any time to return to menu)
+
+Name = 
+*****
+----------------------------------------------------------------------------
+Options:
+start playing;
+Delete character;
+Log out
+
+
+*****

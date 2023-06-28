@@ -1,0 +1,42 @@
+--------------------------------------------------------------------------------
+What race do you want your character to be?
+You may choose:
+Human;
+Cyborg;
+Sith Pureblood;
+Chiss;
+Zabrak
+
+(Enter a race followed by a question mark to learn about that race)
+(Enter 'back' to return to class selection)
+
+Race = 
+*****
+
+By far the most common species in the galaxy, Humans are versatile
+and the norm against which other species are judged.
+
+*****
+
+Humans enhanced by cybernetic implants - some to compensate for injuries,
+others to enhance their combat abilities.
+
+*****
+
+Descendants of the alien species that gave the name to the Sith Order,
+Purebloods have a high percentage of Force sensitivity and
+sharp bone ridges and tendrils.
+
+*****
+
+A secretive, mysterious people, the blue-skinned Chiss are the only
+official allies of the Sith Empire, making them a subject of interest
+for everyone else.
+
+*****
+
+Fiercely independaant and identifiable by horns and facial tattoos,
+Zabraks are either strong, noble fighters or fierce, brutal
+warriors depending on what side thet are on
+
+*****

@@ -1,0 +1,18 @@
+--------------------------------------------------------------------------------
+                      Welcome to SWTOR the text game
+--------------------------------------------------------------------------------
+Options:
+1 - Create a character
+2 - Log in to existing character
+3 - Exit
+--------------------------------------------------------------------------------
+What do you want to do?
+
+*****
+--------------------------------------------------------------------------------
+Here you can create your character. Each character will have its
+own name and password. you can customise your character's
+Faction, class, race and gender.
+
+(Enter 'Menu' at any time to return to the menu)
+*****
