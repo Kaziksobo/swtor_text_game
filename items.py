@@ -1,4 +1,4 @@
-class item:
+class Item:
     def __init__(self, name: str, category: str, buy_price: int, sell_price: int, attack: int, defense: int):
         self.name = name
         self.category = category

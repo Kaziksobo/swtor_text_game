@@ -1,4 +1,4 @@
-class classes:
+class Classes:
     def __init__(self, armour: str, weapon: str, power: str, attack: int, defense: int, stealth: int, force: int):
         self.armour = armour
         self.weapon = weapon
